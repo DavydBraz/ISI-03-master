@@ -35,7 +35,7 @@ app.use(methodOverride('_method'))
 // Configuração do banco de dados
 const pool = new Pool({
   user: 'postgres',
-  password: 'Canetanopapel385',
+  password: 'De1a8',
   host: 'localhost',
   database: 'celulares',
   port: 5432,
